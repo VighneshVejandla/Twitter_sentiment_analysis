@@ -54,3 +54,22 @@ This project performs sentiment analysis on Twitter data using the Sentiment140 
 2. Install the required Python libraries:
    ```bash
    pip install nltk pandas numpy matplotlib scikit-learn
+## Instructions
+1. Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook twitter-sentiment-analysis-using-nltk.ipynb
+    ```
+2. Follow the instructions in the notebook to preprocess data, train the model, and evaluate its performance.
+
+## Results
+The trained logistic regression model achieved high accuracy in classifying sentiments of tweets. Insights into the most frequent words associated with positive and negative sentiments were extracted.
+
+## Future Improvements
+- Incorporate neutral sentiment classification.
+- Use deep learning models like LSTMs or BERT for better performance.
+- Experiment with additional datasets for training.
+
+## Author
+**Vejandala Vighnesh**
+
+Feel free to contribute or reach out for suggestions or improvements.
